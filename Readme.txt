@@ -1,1 +1,0 @@
-Ejecutar index.html en el navegador, desde allí se puede acceder a los demás HTML
